@@ -1,0 +1,4 @@
+  GNU nano 6.2                                        3-listfiles *                                               
+#!/bin/bash
+ls - 
+
